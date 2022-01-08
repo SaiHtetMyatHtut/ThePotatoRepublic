@@ -6,7 +6,7 @@ class Footer extends HTMLElement {
             <div class="container shadow">
             <div class="row">
                 <div class="col-3 mr-auto">
-                <p>&copy; The Potato Republic</p>
+                <p>&copy; The Potato Republic Developed by Nexus Hub</p>
                 </div>
                 <div class="social-networks">
                 
